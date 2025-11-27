@@ -6,18 +6,28 @@ export type Organizer = {
 
 export const ORGANIZERS: Organizer[] = [
   {
+    name: "Martina Zátopková",
+    image: "organizers/martina.png",
+    index: 1
+  },
+  {
+    name: "Lumír Balhar",
+    image: "organizers/lumir.jpg",
+    index: 2
+  },
+  {
     name: "Anežka Müller",
     image: "organizers/anezka.jpg",
-    index: 1
+    index: 3
   },
   {
     name: "Moisés Guimarães de Medeiros",
     image: "organizers/moises.jpg",
-    index: 2,
+    index: 4,
   },
   {
     name: "Jake Baláš",
     image: "organizers/jake.png",
-    index: 3
+    index: 5
   },
 ];

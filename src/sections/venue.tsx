@@ -6,39 +6,37 @@ export const Venue = () => (
   <Container id="venue" variant="smallContainer">
     <Heading>Venue</Heading>
     <Paragraph>
-      The event will take place in the lobby of{" "}
-      <a href="https://clubco.cz/brno/">Clubco</a> Brno office.
+      The event will take place in{" "}
+      <a href="https://impacthub.cz/en/ostrava/">Impact Hub Ostrava</a>.
     </Paragraph>
     <br />
     <Paragraph>
-      If you're traveling by train, head towards Galerie Vaňkovka shopping
-      center. Stay on the street level, avoiding the stairs, and cross the road
-      to your left, placing the shopping center on the opposite side. Walk along
-      the road with the shopping center on your right. After passing several
-      buildings, you'll notice a small park-like area on your left. Enter this
-      area, and you'll find Clubco in one of the buildings further along on your
-      right.
+      If you're traveling by train, head towards "Ostrava Hlavní Nádraží" (Main Train Station).
+      From there, take the trolleybus 101 to the stop "Most Miloše Sýkory" (Miloš Sýkora Bridge)
+      and then walk approximately 350 meters to the venue.
+      The venue is almost in the center of the city, so you can easily find many other possible
+      ways to get to the venue.
     </Paragraph>
     <br />
     {/*<Paragraph>If you encounter any issues, please call #TODO.</Paragraph>*/}
     {/*<br></br>*/}
     <Paragraph>Photos of the venue</Paragraph>
     <Image
-      src={"venue/clubco1.jpg"}
+      src={"venue/hub1.webp"}
       alt="venue image"
       width="100%"
       height="auto"
       objectFit="contain"
     />
     <Image
-      src={"venue/clubco2.jpg"}
+      src={"venue/hub2.webp"}
       alt="venue image"
       width="100%"
       height="auto"
       objectFit="contain"
     />
     <Image
-      src={"venue/clubco3.jpg"}
+      src={"venue/hub3.webp"}
       alt="venue image"
       width="100%"
       height="auto"
