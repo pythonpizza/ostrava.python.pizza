@@ -1,8 +1,8 @@
 {
-  "name": "brno",
+  "name": "ostrava",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/pythonpizza/brno.python.pizza",
+  "repository": "https://github.com/pythonpizza/ostrava.python.pizza",
   "author": "Jake Balas <jake@balas.io>",
   "license": "MIT",
   "engines": {
