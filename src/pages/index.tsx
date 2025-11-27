@@ -9,8 +9,8 @@ import { CFP_Closed } from "~/sections/cfp_closed";
 import { Coc } from "~/sections/coc";
 import { Hero } from "~/sections/hero";
 import { OrganizerSection } from "~/sections/organizers";
-import { Schedule } from "~/sections/schedule";
-import { Sponsors } from "~/sections/sponsors";
+// import { Schedule } from "~/sections/schedule";
+import { Sponsors } from "~/sections/sponsors_empty";
 import { Venue } from "~/sections/venue";
 
 const Home = () => (
@@ -23,13 +23,13 @@ const Home = () => (
         content={genericInformation.socialDescription}
       />
       <meta name="twitter:site" content="@pythonpizzaconf" />
-      <meta property="og:image" content="https://brno.python.pizza/social-image.jpg" />
+      <meta property="og:image" content="https://ostrava.python.pizza/social-image.jpg" />
       <meta name="twitter:image:alt" content="Conference logo" />
-      <meta name="twitter:title" content="Brno Python Pizza Conference!!" />
-      <meta name="twitter:image" content="https://brno.python.pizza/social-image.jpg" />
+      <meta name="twitter:title" content="Ostrava Python Pizza Conference!!" />
+      <meta name="twitter:image" content="https://ostrava.python.pizza/social-image.jpg" />
       <meta
         name="twitter:description"
-        content="Join the fun 🥳🎉🍕 on 22nd February 2025"
+        content="Join the fun 🥳🎉🍕 on 21st February 2026"
       />
       <meta name="photo-attribution" content="Photo by --todo (--url todo)" />
     </Head>
@@ -37,7 +37,7 @@ const Home = () => (
     <Hero />
     <About />
     {/*<SpeakersSection />*/}
-    <Schedule />
+    {/* <Schedule /> */}
     <OrganizerSection />
     <Sponsors />
     <Venue />
