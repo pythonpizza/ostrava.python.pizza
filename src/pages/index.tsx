@@ -5,7 +5,7 @@ import { Footer } from "~/components/footer";
 import { Header } from "~/components/header";
 import { genericInformation } from "~/data/generic";
 import { About } from "~/sections/about";
-import { CFP_Closed } from "~/sections/cfp_closed";
+import { CFP } from "~/sections/cfp";
 import { Coc } from "~/sections/coc";
 import { Hero } from "~/sections/hero";
 import { OrganizerSection } from "~/sections/organizers";
@@ -40,6 +40,7 @@ const Home = () => (
     {/* <Schedule /> */}
     <OrganizerSection />
     <Sponsors />
+    <CFP />
     <Venue />
     <Coc />
     <Footer />
