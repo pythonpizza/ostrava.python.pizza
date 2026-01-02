@@ -4,7 +4,7 @@ import { ContentButton } from "~/components/header";
 
 export const CFP = () => (
   <Container id="cfp" variant="smallContainer">
-    <Heading>Call For Proposals is open until 31st December</Heading>
+    <Heading>Call For Proposals is open until <s>31st December</s> 7th January</Heading>
     <Paragraph>
       <a
         href="https://forms.gle/ktaNSjRsrt6YcQEK9"
