@@ -9,7 +9,7 @@ import { CFP_Closed } from "~/sections/cfp_closed";
 import { Coc } from "~/sections/coc";
 import { Hero } from "~/sections/hero";
 import { OrganizerSection } from "~/sections/organizers";
-// import { Schedule } from "~/sections/schedule";
+import { Schedule } from "~/sections/schedule";
 import { Sponsors } from "~/sections/sponsors_empty";
 import { Venue } from "~/sections/venue";
 
@@ -37,10 +37,10 @@ const Home = () => (
     <Hero />
     <About />
     {/*<SpeakersSection />*/}
-    {/* <Schedule /> */}
+    <Schedule />
     <OrganizerSection />
     <Sponsors />
-    <CFP_Closed />
+    {/* <CFP_Closed /> */}
     <Venue />
     <Coc />
     <Footer />
