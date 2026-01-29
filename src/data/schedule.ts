@@ -31,10 +31,10 @@ export const SCHEDULE: Event[] = [
     photo: "speakers/karolina_surma.webp",
   },
   {
-    title: "Search, Don't Scan",
-    name: "Honza Kral",
+    title: "Fromager: Building Your Own Python Package Index",
+    name: "Martin Čurlej",
     when: "2026/02/21 10:36 AM UTC+1",
-    photo: "speakers/honza_kral.jpg",
+    photo: "speakers/martin_curlej.png",
   },
   {
     title: "Not-So-Smart Power Plugs, but at Least No Cloud Required",
@@ -165,10 +165,10 @@ export const SCHEDULE: Event[] = [
     photo: "speakers/vaclav_toth.jpg",
   },
   {
-    title: "Fromager: Building Your Own Python Package Index",
-    name: "Martin Čurlej",
+    title: "Search, Don't Scan",
+    name: "Honza Kral",
     when: "2026/02/21 4:36 PM UTC+1",
-    photo: "speakers/martin_curlej.png",
+    photo: "speakers/honza_kral.jpg",
   },
   {
     label: "Community Announcements",
