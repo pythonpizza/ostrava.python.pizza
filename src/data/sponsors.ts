@@ -10,10 +10,15 @@ export const SPONSORS = [
     image: "sponsors/barclays.svg",
     link: "https://www.barclays.co.uk/",
   },
+  // {
+  //   name: "Ataccama",
+  //   image: "sponsors/ataccama.svg",
+  //   link: "https://www.ataccama.com/",
+  // },
   {
-    name: "Ataccama",
-    image: "sponsors/ataccama.svg",
-    link: "https://www.ataccama.com/",
+    name: "EuroPython Society",
+    image: "sponsors/eps-text.png",
+    link: "https://www.europython-society.org/",
   },
   {
     name: "Red Hat",
