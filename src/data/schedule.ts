@@ -118,6 +118,12 @@ export const SCHEDULE: Event[] = [
     when: "2026/02/21 2:24 PM UTC+1"
   },
   {
+    title: "Extra Toppings: Powering Up Your Types with Annotated",
+    name: "Vladyslav Fedoriuk",
+    when: "2026/02/21 2:48 PM UTC+1",
+    photo: "speakers/vladyslav_fedoriuk.png",
+  },
+  {
     title: "Polars vs Pandas",
     name: "David Slavíček",
     when: "2026/02/21 3:00 PM UTC+1",
