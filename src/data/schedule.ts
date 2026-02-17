@@ -133,7 +133,7 @@ export const SCHEDULE: Event[] = [
     title: "Teaching Programming Course in High School in the Age of LLMs",
     name: "Alexandr Mikula",
     when: "2026/02/21 3:12 PM UTC+1",
-    photo: "speakers/pizza-square.png",
+    photo: "speakers/alexandr_mikula.jpg",
   },
   {
     title: "Don't Be Scared When PostgreSQL Stops Using Your Indexes",
