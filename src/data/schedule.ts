@@ -130,10 +130,10 @@ export const SCHEDULE: Event[] = [
     photo: "speakers/david_slavicek.png",
   },
   {
-    title: "Teaching Programming Course in High School in the Age of LLMs",
-    name: "Alexandr Mikula",
+    title: "When Is a Bug a Disaster?",
+    name: "Lumír Balhar",
     when: "2026/02/21 3:12 PM UTC+1",
-    photo: "speakers/alexandr_mikula.jpg",
+    photo: "organizers/lumir.jpg",
   },
   {
     title: "Don't Be Scared When PostgreSQL Stops Using Your Indexes",
