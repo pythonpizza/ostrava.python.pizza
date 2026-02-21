@@ -55,13 +55,13 @@ export const SCHEDULE: Event[] = [
   },
   {
     title: "The Quest for Bad Apple on an Ikea Obegränsad Display",
-    name: "Lukasz Taczuk",
+    name: "Łukasz Taczuk",
     when: "2026/02/21 11:36 AM UTC+1",
     photo: "speakers/lukasz_taczuk.jpg",
   },
   {
     title: "DevOps: You Own More Than You Think",
-    name: "Janusz Kamienski",
+    name: "Janusz Kamieński",
     when: "2026/02/21 11:48 AM UTC+1",
     photo: "speakers/janusz_kamienski.jpg",
   },
