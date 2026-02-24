@@ -30,4 +30,9 @@ export const ORGANIZERS: Organizer[] = [
     image: "organizers/petr.jpg",
     index: 5
   },
+  {
+    name: "Piotr Gnus",
+    image: "organizers/piotr.jpg",
+    index: 6
+  },
 ];
